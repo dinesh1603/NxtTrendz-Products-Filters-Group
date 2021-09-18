@@ -1,2 +1,2 @@
-# NxtTrendz-Products-Filters-Group
+# sorting-products-reactjs
 Created with CodeSandbox
